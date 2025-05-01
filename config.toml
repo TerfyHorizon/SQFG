@@ -1,0 +1,9 @@
+# Structured Quarterly Folder Generator -- Config
+# Version 1.0.0
+
+[settings]
+year = 2025
+output_folder = "2025_year"
+week_prefix = "Week_"
+# day_folder_names = [] # [Deprecated: no longer used by script]
+
